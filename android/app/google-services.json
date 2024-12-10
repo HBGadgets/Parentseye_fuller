@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670925031335",
+    "project_id": "parentseye-parent-bbe6a",
+    "storage_bucket": "parentseye-parent-bbe6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670925031335:android:52575bb3cf9c1271d89882",
+        "android_client_info": {
+          "package_name": "com.parentseye.parent_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuhtE-RNeykjkdmpZETm2XuzVgAGH6JkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
